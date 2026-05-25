@@ -42,7 +42,7 @@ class SethAkplogan:
 |---|---------|-----------|-------------|
 | 🎵 | **Music Recommendation Engine** | Python · MusiCNN · CNN14 · ONNX · NumPy · VLC | Deep learning audio embeddings for local desktop music recommendation |
 | 🔐 | **2FA Multi-Channel System** | Laravel · PHP · Email · WhatsApp API | Advanced auth module with 2-factor verification via Email or WhatsApp |
-| 🚗 | **Carpooling Web App** | Django · Python · PostgreSQL | Full-stack platform connecting drivers and passengers |
+| 🚗 | **Carpooling Web App** | Django · Python · SQLite | Full-stack platform connecting drivers and passengers |
 | 🏥 | **Medical Information System** | Java (Console) | Patient record and history management with OOP architecture |
 | 🧪 | **Open Source – `ifri-mini-ml-lib`** | Python · Scikit-learn | University ML library: hands-on implementations of core algorithms |
 | ⚖️ | **File Compression Algorithm** | Python | Script for file size optimization and compression |
