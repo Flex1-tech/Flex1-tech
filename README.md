@@ -104,9 +104,8 @@ class SethAkplogan:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Flex1-tech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Seth's GitHub stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flex1-tech&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
-
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Flex1-tech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="180" alt="Seth's GitHub stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Flex1-tech&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180" alt="Top languages" />
 </div>
 
 <div align="center">
