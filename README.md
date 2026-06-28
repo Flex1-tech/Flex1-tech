@@ -17,40 +17,38 @@
 
 </div>
 
----
-
-## 👤 About Me
+## About Me
 
 ```python
 class SethAkplogan:
     name       = "Seth N. AKPLOGAN"
-    role       = "AI & Data Science Student"
-    school     = "IFRI – Université d'Abomey-Calavi, Bénin 🇧🇯"
-    year       = "2nd year BSc in Artificial Intelligence"
-    languages  = ["French 🇫🇷 (native)", "English 🇬🇧 (intermediate – B1)"]
-    focus      = ["Machine Learning", "Deep Learning", "Web Development", "AIoT"]
-    currently  = "Building a Music Recommendation Engine with MusiCNN + ONNX"
-    goal       = "Create intelligent systems that have real-world impact"
+    role       = "Artificial Intelligence & Data Science Student"
+    school     = "IFRI, Université d'Abomey-Calavi (Benin)"
+    year       = "Second-year BSc in Artificial Intelligence"
+    languages  = ["French (Native)", "English (Intermediate, B1)"]
+    focus      = ["Machine Learning","Deep Learning","Data Science","Web Development","AIoT"]
+    currently  = "Developing a music recommendation engine using MusiCNN and ONNX"
+    goal       = "Building reliable and intelligent software that delivers measurable real-world value"
     contact    = "sethakplogan@gmail.com"
 ```
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | # | Project | Tech Stack | Description |
 |---|---------|-----------|-------------|
-| 🎵 | **Music Recommendation Engine** | Python · MusiCNN · CNN14 · ONNX · NumPy · VLC | Deep learning audio embeddings for local desktop music recommendation |
-| 🔐 | **2FA Multi-Channel System** | Laravel · PHP · Email · WhatsApp API | Advanced auth module with 2-factor verification via Email or WhatsApp |
-| 🚗 | **Carpooling Web App** | Django · Python · PostgreSQL | Full-stack platform connecting drivers and passengers |
-| 🏥 | **Medical Information System** | Java (Console) | Patient record and history management with OOP architecture |
-| 🧪 | **Open Source – `ifri-mini-ml-lib`** | Python · Scikit-learn | University ML library: hands-on implementations of core algorithms |
-| ⚖️ | **File Compression Algorithm** | Python | Script for file size optimization and compression |
-| 📐 | **BMI Calculator** | HTML5 · CSS3 · JavaScript | Responsive web app with instant health index calculation |
+| 01 | **Music Recommendation Engine** | Python · MusiCNN · CNN14 · ONNX · NumPy · VLC | Audio embedding pipeline for local music recommendation |
+| 02 | **2FA Multi-Channel System** | Laravel · PHP · Email · WhatsApp API | Authentication module with two-factor verification |
+| 03 | **Carpooling Web App** | Django · Python · PostgreSQL | Full-stack platform connecting drivers and passengers |
+| 04 | **Medical Information System** | Java (Console) | Patient record and history management with OOP architecture |
+| 05 | **ifri-mini-ml-lib** | Python · Scikit-learn | University ML library with implementations of core algorithms |
+| 06 | **File Compression Algorithm** | Python | Utility for file size optimization and compression |
+| 07 | **BMI Calculator** | HTML5 · CSS3 · JavaScript | Responsive web app for health index calculation |
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -85,7 +83,7 @@ class SethAkplogan:
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 <div align="center">
 
@@ -100,7 +98,7 @@ class SethAkplogan:
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -116,7 +114,7 @@ class SethAkplogan:
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 <div align="center">
 
